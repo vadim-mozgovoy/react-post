@@ -7,7 +7,6 @@ import checkMark from '../assets/Checkmark.svg';
 
 import './post.css'
 
-
 const Posts = ({posts}) => {
     const {name, photo, nickname, content, image, date, comments, reposts, likes} = posts;
 
@@ -50,7 +49,6 @@ const Posts = ({posts}) => {
                     </div>
                 </div>
             </div>
-
         </div>
     </section>);
 }
