@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-post/static/css/main.22abfb5b.css",
+    "main.js": "/react-post/static/js/main.b2a787d7.js",
+    "static/media/Checkmark.svg": "/react-post/static/media/Checkmark.0718be5e029ba425346b1003dfe00644.svg",
+    "static/media/heart-regular.svg": "/react-post/static/media/heart-regular.6d06655ea6c752bd88512e51340ec81c.svg",
+    "static/media/comment-regular.svg": "/react-post/static/media/comment-regular.62cfb0d232e521502699465002ce2612.svg",
+    "index.html": "/react-post/index.html",
+    "static/media/arrow-up-from-bracket-solid.svg": "/react-post/static/media/arrow-up-from-bracket-solid.6b046dec14299ab6bef9989a6c7287d0.svg",
+    "static/media/angle-down-solid.svg": "/react-post/static/media/angle-down-solid.4e67b88abf70a8aa668b72a65f53ce81.svg",
+    "main.22abfb5b.css.map": "/react-post/static/css/main.22abfb5b.css.map",
+    "main.b2a787d7.js.map": "/react-post/static/js/main.b2a787d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22abfb5b.css",
+    "static/js/main.b2a787d7.js"
+  ]
+}
