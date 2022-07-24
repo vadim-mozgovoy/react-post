@@ -1,3 +1,4 @@
+import React from "react";
 import retweet from '../assets/icons8-retweet-24.png'
 import arrow from '../assets/arrow-up-from-bracket-solid.svg'
 import heart from '../assets/heart-regular.svg';
@@ -10,7 +11,8 @@ import './post.css'
 const Posts = ({posts}) => {
     const {name, photo, nickname, content, image, date, comments, reposts, likes} = posts;
 
-    return (<section>
+    return (
+        <section>
         <div className="container">
             <div>
                 <img src={photo} alt={name} className="round-img"/>
@@ -50,7 +52,8 @@ const Posts = ({posts}) => {
                 </div>
             </div>
         </div>
-    </section>);
+    </section>
+    );
 }
 
 export default Posts;
